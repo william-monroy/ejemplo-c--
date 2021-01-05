@@ -6,6 +6,6 @@ int main(){
     string ejemplo;
     cout << "Adios mundo!" << endl;
     cin >> ejemplo;
-    cout << ejemplo << endl;
+    cout << "Texto: " << ejemplo << endl;
     return 0;
 }
